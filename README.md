@@ -31,6 +31,8 @@ IMAGE                TEXT
 Footer
 
 
+Ridley Furrows
+
 Child page 1 wireframe money and budgeting:
 -------------------------------------------------
 LOGO                Navigation
