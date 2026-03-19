@@ -1,6 +1,25 @@
 # wdd130-clark
 create a site for my client
 
+
+Colors and fonts:
+Color	         Use	                Hex Code
+Dark Blue	Headers / navigation	#2C3E50
+Soft Yellow	Highlight areas  	#F4D35E
+Light Gray	Background      	#F5F5F5
+Teal	        Buttons / links        	#2A9D8F
+White	        Text background        	#FFFFFF
+
+Heading Font:
+•	Poppins (modern and friendly)
+Body Font:
+•	Open Sans (easy to read for paragraphs)
+Optional Accent Font:
+•	Montserrat
+
+
+
+
 Home page wireframe:
 -------------------------------------------------
 LOGO                Navigation
@@ -63,6 +82,41 @@ Helpful Tips
 • Use a simple monthly budget
 • Track spending
 • Save even small amounts
+
+-------------------------------------------------
+Footer
+
+Child page 2 wireframe life skills nobody taught you
+-------------------------------------------------
+LOGO                Navigation
+                   Home | Money | Life Skills
+-------------------------------------------------
+
+        Life Skills Nobody Taught You
+
+IMAGE (cooking)
+
+Paragraph explaining that many adults have
+to learn basic life skills on their own.
+
+-------------------------------------------------
+
+Section: Skills People Learn Late
+
+• Cooking real meals
+• Grocery shopping smart
+• Cleaning regularly
+• Balancing work and life
+
+IMAGE (messy apartment / cleaning)
+
+-------------------------------------------------
+
+Funny Truths About Adulting
+
+• Laundry never ends
+• Groceries disappear instantly
+• You suddenly care about coupons
 
 -------------------------------------------------
 Footer

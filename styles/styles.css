@@ -1,4 +1,43 @@
+body{
+    font-family: "Poppins", "Open Sans", "Montserrat";
+    background-color: #F5F5F5;
+}
+
+.top{
+    display:flex;
+    align-items: center;
+    position:relative;
+    background-color: #2C3E50;
+}
+
 #logo{
-    width: 100px;
+    width: 125px;
+    height: 125px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+nav{
+    position:absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.top h2{
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: translateX(-50%);
+}
+
+.page{
+    display: flex;
+    justify-self: center;
+    background-color: #F4D35E;
+    width: 50%;
+}
+
+footer{
     height: 100px;
+    background-color: #2C3E50;
 }
