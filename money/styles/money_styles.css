@@ -1,19 +1,5 @@
 /* exclusive to money page*/
-.container {
-    display: grid;
-    justify-content: center;
-    justify-self: center;
-}
-h1 {
-    text-align: center;
-}
-li {
-    text-align: center;
-    list-style-position: inside;
-}
-section {
-    width: 450px;
-}
+
 
 /* copied from main styles*/
 body{
@@ -60,7 +46,7 @@ nav{
     width: 1200px;
     padding: 20px;
     border-radius: 5%;
-    margin: 0px auto;
+    
 }
 
 img{
