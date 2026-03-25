@@ -68,7 +68,7 @@ footer{
     padding: 20px;
 }
 
-h1, h2 {
+h1, h2, p {
     text-align: center;
 }
 
@@ -80,3 +80,4 @@ li {
 section {
     width: 450px;
 }
+
