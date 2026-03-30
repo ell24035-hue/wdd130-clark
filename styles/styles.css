@@ -68,8 +68,16 @@ footer{
     padding: 20px;
 }
 
-h1, h2, p {
+h1, h2{
     text-align: center;
+}
+#adulting{
+    text-align: center;
+    font-size: 1.2em;}
+
+p{
+    text-align: center;
+    font-size: 1.5em;
 }
 
 li {
